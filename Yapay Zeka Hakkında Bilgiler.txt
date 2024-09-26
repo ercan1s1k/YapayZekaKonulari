@@ -1,0 +1,32 @@
+# YAPAY ZEKA (MAKİNE ÖĞRENİMİ & DERİN ÖĞRENME) NEDİR?
+
+Tabii, her konuyu daha detaylı bir şekilde açıklayalım:
+
+### 1. Yapay Zeka ve Makine Öğrenmesi Nedir?
+Yapay zeka (AI), bilgisayarların insan benzeri görevleri yerine getirebilme yeteneğidir. Bu, doğal dil işleme, görsel algılama, karar verme ve dil çevirisi gibi görevleri içerir. Makine öğrenmesi (ML) ise, bilgisayarların veri kullanarak öğrenmesini sağlayan bir AI alt dalıdır. ML, algoritmaların verilerden öğrenerek tahminler yapmasını ve kararlar almasını sağlar. Yapay zekanın tarihçesi, 1950'lerde Alan Turing'in "Turing Testi" ile başlar ve günümüzde derin öğrenme ve büyük veri analitiği ile devam eder. Yapay zeka, sağlık, finans, otomotiv ve eğlence gibi birçok sektörde devrim yaratmaktadır.
+
+### 2. Temel Kavramlar
+Veri, yapay zekanın temel yapı taşıdır. Veri türleri arasında yapılandırılmış (tablo verileri), yapılandırılmamış (metin, görüntü) ve yarı yapılandırılmış (XML, JSON) veriler bulunur. Veri setleri, bu verilerin toplandığı ve analiz edildiği koleksiyonlardır. Algoritmalar, belirli bir problemi çözmek için adım adım izlenen prosedürlerdir. Makine öğrenmesi algoritmaları, verilerden öğrenerek tahminler yapar. Sınıflandırma, regresyon ve kümeleme gibi temel algoritmalar, farklı türdeki problemleri çözmek için kullanılır.
+
+### 3. Denetimli Öğrenme (Supervised Learning)
+Denetimli öğrenme, etiketli veri kullanarak model eğitme sürecidir. Bu yöntem, giriş ve çıkış verileri arasındaki ilişkiyi öğrenir. Örneğin, bir e-posta spam filtresi, geçmiş e-postaların spam olup olmadığını belirten etiketler kullanarak eğitilir. Karar ağaçları, destek vektör makineleri (SVM) ve k-en yakın komşu (k-NN) gibi algoritmalar, denetimli öğrenmede yaygın olarak kullanılır. Bu algoritmalar, sınıflandırma ve regresyon problemlerini çözmek için uygundur.
+
+### 4. Denetimsiz Öğrenme (Unsupervised Learning)
+Denetimsiz öğrenme, etiketlenmemiş veri kullanarak model eğitme sürecidir. Bu yöntem, verilerdeki gizli yapıları keşfetmeye çalışır. Kümeleme algoritmaları, verileri benzer özelliklere göre gruplandırır. Örneğin, müşteri segmentasyonu, benzer alışveriş alışkanlıklarına sahip müşterileri gruplandırmak için kullanılır. Boyut indirgeme teknikleri, yüksek boyutlu verileri daha düşük boyutlara indirerek analiz etmeyi kolaylaştırır. Bu teknikler, veri görselleştirme ve gürültü azaltma gibi amaçlarla kullanılır.
+
+### 5. Derin Öğrenme (Deep Learning)
+Derin öğrenme, yapay sinir ağları kullanarak verilerden öğrenen bir makine öğrenmesi alt dalıdır. Yapay sinir ağları, insan beyninin çalışma prensiplerinden esinlenerek geliştirilmiştir. Derin sinir ağları, çok katmanlı yapıları sayesinde karmaşık veri ilişkilerini öğrenebilir. Convolutional Neural Networks (CNN), görüntü işleme ve sınıflandırma görevlerinde yaygın olarak kullanılır. Recurrent Neural Networks (RNN), zaman serisi verileri ve dil modelleme gibi ardışık veri analizlerinde etkilidir.
+
+### 6. Doğal Dil İşleme (NLP)
+Doğal dil işleme, bilgisayarların insan dilini anlaması ve işlemesi ile ilgilenen bir yapay zeka alanıdır. Metin sınıflandırma, duygu analizi ve dil çevirisi gibi uygulamalar, NLP'nin yaygın kullanım alanlarıdır. Bag-of-Words ve TF-IDF gibi teknikler, metin verilerini sayısal verilere dönüştürmek için kullanılır. Word Embeddings, kelimelerin anlamlarını vektörler olarak temsil eder ve dil modellerinin daha etkili öğrenmesini sağlar. Transformer tabanlı modeller, NLP'de son yıllarda büyük ilerlemeler kaydetmiştir.
+
+### 7. Bilgisayarla Görü (Computer Vision)
+Bilgisayarla görü, bilgisayarların görüntü ve video verilerini anlaması ve işlemesi ile ilgilenen bir yapay zeka alanıdır. Görüntü sınıflandırma, nesne tespiti ve yüz tanıma gibi uygulamalar, bilgisayarla görünün yaygın kullanım alanlarıdır. Convolutional Neural Networks (CNN), görüntü verilerini analiz etmek için özel olarak tasarlanmış derin öğrenme modelleridir. Bu modeller, görüntülerdeki özellikleri otomatik olarak öğrenir ve sınıflandırma yapar. Bilgisayarla görü, sağlık, güvenlik ve otomotiv gibi birçok sektörde kullanılmaktadır.
+
+### 8. Model Değerlendirme ve Optimizasyon
+Model değerlendirme, makine öğrenmesi modellerinin performansını ölçmek için kullanılan metrikleri içerir. Doğruluk, kesinlik, geri çağırma ve F1 skoru gibi metrikler, modelin ne kadar iyi çalıştığını gösterir. Hiperparametre optimizasyonu, modelin performansını artırmak için en iyi parametrelerin bulunması sürecidir. Çapraz doğrulama (cross-validation), modelin genelleme yeteneğini değerlendirmek için kullanılan bir tekniktir. Bu yöntemler, modelin aşırı öğrenme (overfitting) ve eksik öğrenme (underfitting) problemlerini önlemeye yardımcı olur.
+
+### 9. Uygulama ve Projeler
+Gerçek dünya projeleri, yapay zeka ve makine öğrenmesi tekniklerinin pratik uygulamalarını içerir. Örneğin, bir sağlık projesinde hastalık teşhisi için makine öğrenmesi modelleri kullanılabilir. Finans sektöründe, kredi risk analizi ve algoritmik ticaret gibi uygulamalar yaygındır. TensorFlow, PyTorch ve Scikit-Learn gibi popüler yapay zeka kütüphaneleri, bu projelerin geliştirilmesinde önemli araçlardır. Bu kütüphaneler, model geliştirme, eğitim ve değerlendirme süreçlerini kolaylaştırır.
+
+Bu detaylı açıklamalar, her bir konunun daha iyi anlaşılmasına yardımcı olacaktır. Başka bir konuda yardımcı olabilir miyim?
