@@ -1,2 +1,3 @@
 # YapayZekaKonulariniKapsayanKapsamliOrnek
-Yapay Zeka Konuları için kapsamlı bir örnek
+## Yapay Zeka Konuları için kapsamlı bir örnek
+Bu kod, yapay zeka ve makine öğrenimi konularını kapsayan kapsamlı bir örnektir. İlk olarak, gerekli kütüphaneler yüklenir ve iris veri seti kullanılarak lojistik regresyon modeli eğitilir. Ardından, PCA ile boyut indirgeme ve KMeans ile kümeleme yapılır. Daha sonra, Random Forest modeli eğitilir ve doğruluğu hesaplanır. Derin öğrenme kısmında, MNIST veri seti kullanılarak bir sinir ağı modeli oluşturulur ve eğitilir. Doğal dil işleme (NLP) örneğinde, metinler tokenize edilip pad edilir. Son olarak, pekiştirmeli öğrenme örneği olarak CartPole-v1 ortamında rastgele eylemlerle bir simülasyon gerçekleştirilir. Bu kod, yapay zeka uygulamalarının temel ve ileri düzey konularını içermektedir.
